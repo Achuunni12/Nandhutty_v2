@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
+$ git clone https://github.com/Achuunni12/Nandhutty_v2
 $ cd Nandhutty_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
